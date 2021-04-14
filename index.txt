@@ -1,2 +1,6 @@
 main
+<<<<<<< HEAD
 update A
+=======
+Them A
+>>>>>>> 9b2dde94ce01d19f222ee71cd40621fdd12fcadd
