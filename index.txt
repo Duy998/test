@@ -1,2 +1,6 @@
 main
+<<<<<<< HEAD
 Them A
+=======
+update B
+>>>>>>> 0e34c4983d0e5c3f1e4db92631670d6003ed472e
